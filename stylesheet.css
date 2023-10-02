@@ -41,6 +41,9 @@ a {
   color: rgb(6, 2, 50);
   text-shadow: 8px 8px 10px #0000008c;
   background-color: #343a40;
+  .md-bg-blue-grey-A700{
+  background-color: #455a64;
+}
   text-align: center;
 }
 
