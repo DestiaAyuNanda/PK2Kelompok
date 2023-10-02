@@ -38,11 +38,9 @@ a {
   padding: 180px 0 100px 0;
   background-image: url("https://github.com/DestiaAyuNanda/PK2Kelompok/assets/143371449/39a81df7-e7af-4c4c-b380-7a4d9fa3bae9");
   background-size: cover;
-  color: rgb(6, 2, 50);
-  text-shadow: 8px 8px 10px #0000008c;
-  background-color: #343a40;
-  .md-bg-blue-grey-A700{
-  background-color: #455a64;
+  .element {
+  background-color: white; 
+  color: black; 
 }
   text-align: center;
 }
