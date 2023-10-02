@@ -36,7 +36,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("https://github.com/DestiaAyuNanda/PK2Kelompok/assets/143371449/345e62f0-f3e4-4ba0-a2c1-3cdbd056b00d");
+  background-image: url("https://github.com/DestiaAyuNanda/PK2Kelompok/assets/143371449/39a81df7-e7af-4c4c-b380-7a4d9fa3bae9");
   background-size: cover;
   color: rgb(6, 2, 50);
   text-shadow: 8px 8px 10px #0000008c;
@@ -211,6 +211,8 @@ img {
     }
 
 .contents-item p {
+  width: 80%;
+  display: inline-block;
   font-size: 24px;
   margin-top: 30px;
 }
