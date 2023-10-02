@@ -8,7 +8,7 @@ li {
 }
 
 .header {
-  background-color: #92dcff;
+  background-color: rgba(34,49,52,0.9);
   color: #FFFFFF;
   height: 90px;
 }
@@ -38,7 +38,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url("https://github.com/DestiaAyuNanda/PK2Kelompok/assets/143371449/345e62f0-f3e4-4ba0-a2c1-3cdbd056b00d");
   background-size: cover;
-  color: black;
+  color: rgb(2, 65, 136);
   text-align: center;
 }
 
@@ -204,7 +204,6 @@ img {
   margin-right: 40px;
 }
 img {
-  width: 350px;
   height: 350px;
     }
 
